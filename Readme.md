@@ -1,7 +1,7 @@
 # Проект «Киноман» [![Check status][check-image]][check-url]
 
 * Студент: [Айдар Шакиров](https://up.htmlacademy.ru/ecmascript/13/user/79435).
-* Наставник: `Неизвестно`.
+* Наставник: `Ксения Толстых`.
 
 ---
 
